@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
-import wotnot from './value'
-console.log('value:', wotnot)
+import ts from './ts-file'
+import js from './js-file'
 
+console.log('js:', js)
+console.log('ts:', ts)
